@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-random",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "random",
+    "description": ""
+  },
+  "main": "main.js"
+}
