@@ -6,5 +6,5 @@
     "name": "random",
     "description": ""
   },
-  "main": "main.js"
+  "main": "index.js"
 }
